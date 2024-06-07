@@ -17,3 +17,5 @@ Lets build and related REST build triggers be accessed even when anonymous users
 
 ```
 
+Now Browse to https://plugins.jenkins.io/build-token-root/ and get the remote building parms
+http://jenkins.successtreks.com/buildByToken/build?job=git%20plugin%20-%20test%201&token=secret
